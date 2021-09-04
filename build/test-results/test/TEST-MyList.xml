@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyList" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-04T01:39:07" hostname="DESKTOP-LPG622Q" time="214.573">
+  <properties/>
+  <testcase name="verifyTheCalculatorApp()" classname="MyList" time="214.573"/>
+  <system-out><![CDATA[25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+ultimo
+]]></system-out>
+  <system-err><![CDATA[Sep 03, 2021 8:39:28 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
