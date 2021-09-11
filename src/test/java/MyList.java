@@ -24,7 +24,7 @@ public class MyList {
     @BeforeEach
     public void before() throws MalformedURLException {
         DesiredCapabilities capabilities = new DesiredCapabilities();
-        capabilities.setCapability("deviceName","Taller02_Emulador");
+        capabilities.setCapability("deviceName","Prueba");
         capabilities.setCapability("platformVersion","9.0");
         capabilities.setCapability("appPackage","com.vrproductiveapps.whendo");
         capabilities.setCapability("appActivity",".ui.HomeActivity");
